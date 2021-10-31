@@ -1,1 +1,1 @@
-I am a MSc student at Carleton University in the Department of Geography and Environmental Studies. My research is primarily focused on the characterization of boreal peatland vegetation pre- and post-fire using data from the Global Ecosystem Dynamics Investion (GEDI) and ICESat-2. 
+I am a MSc student at Carleton University in the Department of Geography and Environmental Studies. My research is primarily focused on the characterization of pre- and post-fire vegetation in boreal peatlands using data from the Global Ecosystem Dynamics Investion (GEDI) and ICESat-2. 
